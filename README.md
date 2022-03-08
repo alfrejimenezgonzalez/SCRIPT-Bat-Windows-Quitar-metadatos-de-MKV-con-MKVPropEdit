@@ -27,11 +27,18 @@ En este ejemplo , probare con este archivo que tiene por defecto este nombre
 
 ![image](https://user-images.githubusercontent.com/17550010/157274974-e1fd50b9-4344-45a5-893d-ef7b3b6574a6.png)
 
+ 
+ 
 
 Ejecutamos y todo OK , comprobamos
+ 
+ 
+ 
 ![image](https://user-images.githubusercontent.com/17550010/157275075-2059b164-19a5-4cf4-845a-85070d539cec.png)
 
 
+ 
+ 
 
 ![image](https://user-images.githubusercontent.com/17550010/157276194-f5ea7a2a-13eb-4bba-9d5b-8b1ea55c3936.png)
 
