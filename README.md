@@ -15,6 +15,8 @@ https://www.fosshub.com/MKVToolNix.html
 
 Descargar el script de GitHub la ultima versión que haya subido
 
+https://github.com/alfrejimenezgonzalez/SCRIPT-Bat-Windows-Quitar-metadatos-de-MKV-con-MKVPropEdit/releases/tag/mkvtoolnix
+
 <center>
  
 Editarlo con cualquier editor de texto y cambiar la rutas
